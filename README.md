@@ -1,29 +1,25 @@
-# DinoV2 医用数据集使用示例
+# DinoV2 Medical Dataset Usage Example
 
-## 介绍
-本仓库包含一个Python的Jupyter Notebook文件，记录了我如何使用DinoV2在医用数据集上进行10折交叉训练和验证。
+## Introduction
+This repository contains a Python Jupyter Notebook file that documents how I used DinoV2 to perform 10-fold cross-training and validation on a medical dataset.
 
-## 文件结构
-- `DinoV2_Medical_Data_Cross_Validation.ipynb`: 主文件，包含了使用DinoV2进行10折交叉训练和验证的所有步骤和代码。
+## File Structure
+- `DinoV2_Medical_Data_Cross_Validation.ipynb`: The main file containing all the steps and code for performing 10-fold cross-training and validation using DinoV2.
 
-## 使用说明
-1. 克隆此仓库到本地：
+## Usage Instructions
+1. Clone this repository to your local machine:
     ```bash
     git clone https://github.com/your-username/DinoV2_Medical_Data.git
     ```
-2. 安装所需依赖：
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. 打开Jupyter Notebook并运行`DinoV2_Medical_Data_Cross_Validation.ipynb`：
+2. Open the Jupyter Notebook and run `DinoV2_Medical_Data_Cross_Validation.ipynb`:
     ```bash
     jupyter notebook DinoV2_Medical_Data_Cross_Validation.ipynb
     ```
 
-## 结果
-本Notebook展示了如何在医用数据集上应用DinoV2进行10折交叉训练和验证，并提供了详细的结果和分析。
+## Results
+This Notebook demonstrates how to apply DinoV2 on a medical dataset for 10-fold cross-training and validation, providing detailed results and analysis.
 
-## 参考
-- [DinoV2 官方文档](https://link-to-dinov2-docs)
-- [医用数据集来源](https://link-to-medical-dataset)
-
+## References
+- [DinoV2 Official Documentation]([https://link-to-dinov2-docs](https://github.com/facebookresearch/dinov2))
+- Medical Dataset Source comes from Sir Run Run Shaw Hospital
+- Coder comes from [Intelligent Image Processing Lab in Ritsumei university]([https://media.ritsumei.ac.jp/iipl/])
