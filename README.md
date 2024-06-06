@@ -13,4 +13,4 @@ You can control the code by changing the content of the `cfg` variable at the to
 ## References
 - [DinoV2 Official Documentation](https://github.com/facebookresearch/dinov2)
 - Medical Dataset Source comes from Sir Run Run Shaw Hospital
-- Coder comes from [Intelligent Image Processing Lab]((https://media.ritsumei.ac.jp/iipl/)) in Ritsumei university
+- Coder comes from [Intelligent Image Processing Lab](https://media.ritsumei.ac.jp/iipl/) in Ritsumei university
